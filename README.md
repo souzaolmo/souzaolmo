@@ -1,9 +1,11 @@
 <!-- Intro Section  -->
-<div id="intro-img" align="center">
-    <a href="#"><img src="https://media.tenor.com/8GcYClbSpNQAAAAi/wabisabip-wabi.gif" width=100></a>
-</div>
+
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=000080&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Julio+Olmo+;It's+nice+to+meet+you!; I+m+future+computer+scientist" alt="Typing SVG" /></a>
+</div>
+
+<div id="intro-img" align="center">
+    <a href="#"><img src="https://media.tenor.com/v0vEIFK6fU8AAAAi/pom-bot-creatives.gif" width=100></a>
 </div>
 
  <div align="center">
