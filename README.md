@@ -6,10 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=000080&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Julio+Olmo+;It's+nice+to+meet+you!;I+am+a+full+stack+web+and+developer" alt="Typing SVG" /></a>
 </div>
 
-
-- 🔭 Hoje trabalho na internet...
-- 🌱 Estudando Ciencia da Computação e Programação ...
-:D
  <div align="center">
   <a href="https://github.com/souzaolmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzaolmo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
